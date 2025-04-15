@@ -28,11 +28,21 @@ These datasets are provided by:
 If our work was helpful for your project, cite our work :)
 
 ```bibtex
-@article {yoon2024eralign,
-      title={Unsupervised Robust Cross-Lingual Entity Alignment via Neighbor Triple Matching with Entity and Relation Texts}, 
-      author={Soojin Yoon and Sungho Ko and Tongyoung Kim and SeongKu Kang and Jinyoung Yeo and Dongha Lee},
-      journal={arXiv preprint arXiv:2407.15588}
-      year={2024},
+@inproceedings{10.1145/3701551.3703500,
+author = {Yoon, Soojin and Ko, Sungho and Kim, Tongyoung and Kang, SeongKu and Yeo, Jinyoung and Lee, Dongha},
+title = {Unsupervised Robust Cross-Lingual Entity Alignment via Neighbor Triple Matching with Entity and Relation Texts},
+year = {2025},
+isbn = {9798400713293},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3701551.3703500},
+doi = {10.1145/3701551.3703500},
+booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+pages = {184–193},
+numpages = {10},
+keywords = {cross-lingual entity alignment, knowledge graph, neighbor triple matching, optimal transport, pretrained language models},
+location = {Hannover, Germany},
+series = {WSDM '25}
 }
 ```
   
